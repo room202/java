@@ -7,6 +7,11 @@
 ## 開発環境
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
+- [Java21 (OpenJDK21)](https://jdk.java.net/java-se-ri/21)
+
+## 開発環境の構築手順
+
+- [Visual Studio Code](https://code.visualstudio.com/download)
   - 設定
     -  自動保存を有効化 : [ファイル]-[自動保存]をクリック
     -  フォントの拡大縮小有効化 : [ファイル]-[ユーザー設定]-[設定]-「Mouse Wheel Zoom」で検索
