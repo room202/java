@@ -6,8 +6,8 @@
 
 ## 開発環境
 
-- [Visual Studio Code](https://code.visualstudio.com/download)
-- [Java21 (OpenJDK21)](https://jdk.java.net/java-se-ri/21)
+- Visual Studio Code
+- Java21 (OpenJDK21)
 
 ## 開発環境の構築手順
 
