@@ -26,4 +26,5 @@
     - Pathに「C:\java\bin」を追加する
 
 ## ソースコードの保存場所
-  - C:\work\java
+
+C:\work\java
