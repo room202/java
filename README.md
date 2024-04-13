@@ -113,4 +113,6 @@ javac --version
 
 ## ソースコードの保存場所
 
-C:\work\java
+`C:\work\java`
+
+※当該フォルダが無ければ作る
