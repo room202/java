@@ -24,7 +24,6 @@
 
 https://jdk.java.net/java-se-ri/21
 
-
 ![](images/001.png)
 
 ![](images/002.png)
