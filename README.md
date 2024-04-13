@@ -11,13 +11,11 @@
 
 ## 開発環境の構築手順
 
-###  [Visual Studio Code](https://code.visualstudio.com/download) インストール
-- 設定
-  -  自動保存を有効化 : [ファイル]-[自動保存]をクリック
-  -  フォントの拡大縮小有効化 : [ファイル]-[ユーザー設定]-[設定]-「Mouse Wheel Zoom」で検索
-    - 「Editor: Mouse Wheel Zoom」と「Terminal › Integrated: Mouse Wheel Zoom」にチェックを入れる
+###  Visual Studio Codeインストール
+
+[こちらを参照](https://github.com/room202/vscode/)
+
 - 拡張機能を追加
-  - Japanese Language Pack for Visual Studio Code (日本語化)
   - Extension Pack for Java (Javaプログラミングに便利な機能一式)
 
 ###  [Java21 (OpenJDK21)](https://jdk.java.net/java-se-ri/21) のダウンロードと設定
