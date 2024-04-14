@@ -116,3 +116,42 @@ javac --version
 `C:\work\java`
 
 ※当該フォルダが無ければ作る
+
+
+## はじめてのJava
+
+Visual Studio Codeで`C\work\java`を開く  
+![](images/work008.png)
+
+`新しいファイル`アイコンをクリック  
+![](images/work009.png)
+
+ファイル名を`Main.java`で作る  
+![](images/work010.png)
+
+右下に`Java言語用のおすすめ拡張機能～`が表示されたら`インストール`をクリック
+![](images/work011.png)
+
+`拡張機能: Extension～`タブは`✕`ボタンをクリックして閉じる  
+![](images/work012.png)
+
+左側の`エクスプローラー`アイコンをクリックする  
+![](images/work013.png)
+
+`エクスプローラー`にある`Main.java`をクリック  
+![](images/work014.png)
+
+下記ソースコードを打ち込むかコピペする
+
+```java
+class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
+```
+![](images/work015.png)
+
+`Run`ボタンをクリック(またはキーボードF5)すると、Javaプログラムが実行される  
+実行結果は、ターミナルエリアに表示される
+![](images/work016.png)
