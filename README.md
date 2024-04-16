@@ -117,6 +117,7 @@ javac --version
 
 ※当該フォルダが無ければ作る
 
+分からない人は[こちら](https://github.com/room202/work-dir-prepare)を参照
 
 ## はじめてのJava
 
