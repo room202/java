@@ -1,9 +1,5 @@
 # Java
 
-## 使用するテキスト
-
-[スッキリわかるJava入門 第4版](https://book.impress.co.jp/books/1123101044)
-
 ## 開発環境
 
 - Visual Studio Code
